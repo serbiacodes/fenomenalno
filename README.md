@@ -7,6 +7,10 @@
 + [Писма](#писма)
 + [Преводи](#преводи)
 
+## Јавни сервиси
+
++ [Обавештења о јавним сервисима у вашем граду - servisne.info](https://github.com/hackberrydev/servisne_info)
+
 ## Писма
 
 + [preslovljivac-js](https://github.com/pioniredu/preslovljivac-js) **JavaScript**
