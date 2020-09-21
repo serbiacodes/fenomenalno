@@ -4,9 +4,11 @@
 
 ## Садржај
 
++ [Јавни сервиси](#јавни-сервиси)
 + [Курсеви](#курсеви)
 + [Писма](#писма)
 + [Преводи](#преводи)
++ [Библиотеке](#библиотеке)
 
 ## Јавни сервиси
 
@@ -28,4 +30,8 @@
 ## Преводи
 
 + [Дефиниција Отворених Података](https://github.com/HeapSpace/opendefinition/blob/gh-pages/od/2.1/sr/index.markdown)
-+ [wordpress latinica](https://github.com/igr/sr_RS/blob/master/wordpress/index.md)
++ [Wordpress latinica](https://github.com/igr/sr_RS/blob/master/wordpress/index.md)
+
+## Библиотеке
+
++ [Јодд - скуп библиотека и програмерских оквира у Јави](https://jodd.org)
