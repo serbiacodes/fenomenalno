@@ -8,6 +8,10 @@
 + [Писма](#писма)
 + [Преводи](#преводи)
 
+## Јавни сервиси
+
++ [Обавештења о јавним сервисима у вашем граду - servisne.info](https://github.com/hackberrydev/servisne_info)
+
 ## Курсеви
 
 + [Tipsy Pixel - курс графичког дизајна](https://tipsypixel.com/)
