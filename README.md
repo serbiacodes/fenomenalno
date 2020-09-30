@@ -35,3 +35,5 @@
 ## Библиотеке
 
 + [Јодд - скуп библиотека и програмерских оквира у Јави](https://jodd.org)
++ [Deep Netts Дубоко учење у Јави](https://www.deepnetts.com/blog/deep-netts-community-edition)
++ [Neuroph Едукативни софтвер за неуронске мреже](http://neuroph.sourceforge.net/)
