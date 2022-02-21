@@ -27,6 +27,7 @@
 + [detektor](https://github.com/pioniredu/detektor-js) **JavaScript**
 + [byk](https://github.com/topalovic/byk) **Ruby**
 + [Transliteration Utility](https://www.microsoft.com/en-us/download/details.aspx?id=17933) **Windows**
++ [Vokativi](https://github.com/startitrs/vokativi) **CSV,JSON**
 
 ## Преводи
 
